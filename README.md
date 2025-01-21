@@ -17,7 +17,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-## App Brainstorming (Step 4)
+## App Brainstorming (Step 4) 
 
 1) Tiktok - repost button, algorithm
 2) Instagram - highlights, reels
